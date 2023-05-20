@@ -69,7 +69,7 @@
 2. Clone the repo
 
 ```sh
-git clone https://github.com/shaojintian/Best_README_template.git
+git clone https://github.com/zhaocResearch/Best_README_template.git
 ```
 
 ### 文件目录说明
@@ -123,7 +123,7 @@ filetree
 
 ### 作者
 
-xxx@xxxx
+zhaoc@zjut.edu.cn
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
