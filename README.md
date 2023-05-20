@@ -56,12 +56,12 @@
 2. numpy x.x.x
 3. datetime x.x.x
 4. time x.x.x
-5. tushare
-6. matplotlib
-7. joblib
-8. torch
-9. seaborn
-10. sklearn
+5. tushare x.x.x
+6. matplotlib x.x.x
+7. joblib x.x.x
+8. torch x.x.x
+9. seaborn x.x.x
+10. sklearn x.x.x
 
 ###### **安装步骤**
 
